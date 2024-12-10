@@ -1,5 +1,5 @@
-# GNAA-Jerome-Voice-Chat-RBX
-Meet Jerome AI, the cutting-edge voice chat assistant meticulously engineered to elevate your Roblox gaming experience. Jerome AI combines advanced natural language processing with real-time audio analysis to seamlessly integrate into your gameplay, providing an unprecedented level of interaction and support.
+
+Meet Tyrone AI, the cutting-edge voice chat assistant meticulously engineered to elevate your Roblox gaming experience. TyroneAI combines advanced natural language processing with real-time audio analysis to seamlessly integrate into your gameplay, providing an unprecedented level of interaction and support.
 
 Setup Guide for VoiceMeeter Banana, VB Virtual Audio Cable, and Python
 Step 1: Download and Install Software
@@ -33,9 +33,9 @@ Download and Install Visual Studio Code from: https://code.visualstudio.com/
 Setup a New Project:
 Open Visual Studio Code.
 Create a new folder and name it as you prefer.
-Inside the folder, create a file named "Jerome.py".
+Inside the folder, create a file named "Tyrone.py".
 Step 7: Prepare and Run Python Script
-Copy the Code into the "Jerome.py" file.
+Copy the Code into the "Tyrone.py" file.
 Run the Script:
 Open a terminal in Visual Studio Code.
 Execute the script by running python Jerome.py.
@@ -50,6 +50,6 @@ Confirm Devices:
 Ensure your microphone and speakers/headphones are correctly set as input and output devices in Windows.
 Step 10: Configure Roblox Audio
 Adjust Roblox Output:
-To communicate with Jerome privately, set Roblox’s output to your headphones.
+To communicate with Tyrone privately, set Roblox’s output to your headphones.
 To allow others to communicate with Jerome, keep Roblox’s output set to VoiceMeeter Input.
 Follow these steps to set up and run Jerome with VoiceMeeter Banana and VB Virtual Audio Cable. Make sure all devices are correctly configured and tested for optimal performance.
