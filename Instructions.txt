@@ -47,8 +47,8 @@
 
 # Install visual studio code if not already installed
 # https://code.visualstudio.com/
-# Once downloaded, open it and create a new folder, then create a file in that folder called "Jerome.py" or whatever you would like to name it.
-# Paste this code into the Jerome.py file.
+# Once downloaded, open it and create a new folder, then create a file in that folder called "Tyrone.py" or whatever you would like to name it.
+# Paste this code into the Tyrone.py file.
 # Run the code.
 
 
@@ -62,9 +62,9 @@
 # Step 9
 
 # Make sure your input and output devices are correct
-# Speak to Jerome through your microphone, make sure you are in Roblox and it is a active window.
+# Speak to Tyrone through your microphone, make sure you are in Roblox and it is a active window.
 
 # Step 10
 
-# If you want yourself to speak to Jerome only, change output device in Roblox to your headphones and not VoiceMeeter Input.
-# If you want other people to speak to Jerome, dont change output device in Roblox if its VoiceMeeter Input already.
+# If you want yourself to speak to Tyrone only, change output device in Roblox to your headphones and not VoiceMeeter Input.
+# If you want other people to speak to Tyrone, dont change output device in Roblox if its VoiceMeeter Input already.
