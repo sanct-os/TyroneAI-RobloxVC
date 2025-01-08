@@ -1,8 +1,10 @@
 # DO NOT CHANGE ANYTHING IN THIS CODE UNLESS YOU KNOW WHAT YOU ARE DOING
 
-#edit 12/10/24: changed to tyrone
+#edit: changed AI to tyrone
 
-#CREDITS: @malformedpackets on discord
+#CREDITS: @sanct.os (adam) on discord
+
+# you can edit this code to turn the AI into whatever you want if you don't like Tyrone, should be easy to figure out
 
 # INSTRUCTIONS
 
